@@ -1,5 +1,3 @@
-import 'package:assemble2/navigation.dart';
-import 'package:assemble2/slide-right-route.dart';
 import 'package:assemble2/widgets/appbar.dart';
 import 'package:assemble2/widgets/complete.dart';
 import 'package:assemble2/widgets/field.dart';

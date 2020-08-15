@@ -1,4 +1,3 @@
-import 'package:assemble2/demo.dart';
 import 'package:assemble2/khujun/bivag.dart';
 import 'package:assemble2/screens/id.dart';
 import 'package:assemble2/screens/like.dart';
