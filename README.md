@@ -1,2 +1,2 @@
 # hamba
-A cross platform mobile application for cow selling and buying
+A cross platform mobile application with Flutter & Firebase for cow selling and buying
