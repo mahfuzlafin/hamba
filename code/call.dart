@@ -1,11 +1,18 @@
 // import
+// main
 // MyApp
 // Home
-// main
 
 // import
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart' as UrlLauncher;
+
+// main
+void main() {
+  runApp(
+    new MyApp(),
+  );
+}
 
 // MyApp
 class MyApp extends StatelessWidget {
@@ -36,11 +43,4 @@ class Home extends StatelessWidget {
               child: new Text("Call me")),
         ),
       );
-}
-
-// main
-void main() {
-  runApp(
-    new MyApp(),
-  );
 }
